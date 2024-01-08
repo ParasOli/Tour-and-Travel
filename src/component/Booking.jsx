@@ -7,7 +7,7 @@ const Form = () => {
         <div className='flex flex-col my-2 py-2 '>
           <label htmlFor="">Destination</label>
           <select name="" id="" className='bg-gray-300 lg:w-[300px] md:w-full border rounded-md p-2'>
-            <option value="">Nepal</option>
+            <option value="">Kathmandu</option>
             <option value="">Pokahara</option>
             <option value="">Sagarmatha</option>
             <option value="">Annapurna</option>
